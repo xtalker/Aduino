@@ -1,0 +1,8 @@
+.modgit
+.pio*
+vendor
+!.empty
+*.bin
+*.gch
+logs
+pio
